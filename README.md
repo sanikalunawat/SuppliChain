@@ -1,4 +1,4 @@
-# Pharma-SupplyChain-Blockchain 💊📑
+# Pharmaceutical SupplyChain with Blockchain 
 
 # Overview
 Pharma-SupplyChain-Blockchain is a decentralized application (DApp) built to enhance the pharmaceutical supply chain by ensuring transparency, traceability, and security. It leverages blockchain technology to streamline the tracking of drugs and medicines as they move through the supply chain, from suppliers to manufacturers, distributors, retailers, and finally to customers.
@@ -11,7 +11,7 @@ Tech Stack
 - **Ethereum**: A decentralized blockchain platform that serves as the underlying infrastructure for the smart contracts.
 - **Solidity**: The programming language used to write smart contracts deployed on the Ethereum blockchain.
 - **Hardhat**: A development environment for Ethereum that helps with testing, deployment, and debugging of Solidity contracts.
-- **Remix IDE**: An online integrated development environment used for writing, testing, and deploying smart contracts. The contract is deployed at address `0xD09d5Aa3018498d70d148eE8f87ba14256C46389`.
+- **Remix IDE**: An online integrated development environment used for writing, testing, and deploying smart contracts. 
 
 ### Frontend:
 - **Vite+React**: A JavaScript library for building user interfaces. React is used for creating the frontend of the DApp.
